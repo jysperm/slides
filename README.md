@@ -10,3 +10,4 @@
 - `Indexes` 如何通过索引加速查询（2017）
 - `Server-side Practices` 构建健壮后端应用的七点实践（2017）
 - `LeanCloud Data Consistency` 在 LeanCloud 上解决数据一致性（2017）
+- `Openerable Node App` 构建可运维的后端应用（2017）
